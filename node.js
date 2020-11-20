@@ -3,4 +3,4 @@ var y = 1
 
 var total = x + y
 
-console.log("The total is " + total)
+console.log("The totalaaa is " + total)    
