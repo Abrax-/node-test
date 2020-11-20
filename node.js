@@ -9,3 +9,4 @@ console.log("The total is " + total)
 var x_times_y = x*y;
 
 console.log("X times Y is " + x_times_y);
+console.log("Hello");
